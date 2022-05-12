@@ -2,7 +2,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">Hi, I'm Adeyeye Abiola </h1>
-<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021.</p>
+<p align="center" width="150px">I'm a developer with a love for developing scalable web applications and working across the full stack and also looking forward to working as part of a team, honing my skills, and trying out new technologies.</p>
 
   <div align="center">
 
