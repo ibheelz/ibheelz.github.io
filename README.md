@@ -2,7 +2,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">Hi, I'm Adeyeye Abiola </h1>
-<p align="center" width="150px">I'm a developer with a love for developing scalable web applications and working across the full stack and also looking forward to working as part of a team, honing my skills, and trying out new technologies.</p>
+<p align="center" width="150px">I'm a developer with a love for modelling scalable mobile and web applications while working across the full stack and also looking forward to working as part of a team, honing my skills, and trying out new technologies.</p>
 
   <div align="center">
 
